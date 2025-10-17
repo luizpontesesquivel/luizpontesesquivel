@@ -12,27 +12,16 @@ Aqui compartilho projetos, e-books, reflexões, contos e pesquisas que atravessa
 - Aos 11 anos fui diagnosticado com epilepsia e reconhecido como 2e.  
 - Minha vida é feita de **hiperfocos** e desafios cotidianos: quando estou concentrado, atuo em múltiplas áreas; fora deles, até tarefas simples podem ser difíceis.  
 - Primeira experiência profissional: **suporte de TI em hospital**.  
-- Trabalhei com desenvolvimento de software, consultorias e gestão ética de equipes.  
+- Trabalhei com desenvolvimento de software, consultorias e gestão de equipes de TI.  
 - Em 2025 tomei decisões difíceis, priorizando **ética e propósito**.  
-- Minha primeira iniciação científica: **Astrobiologia** — a pergunta pelas origens da vida.  
+- Minha primeira iniciação científica: **Astrobiologia** — a biologia em busca de novos destinos.
+- Atualmente atuo no Tribunal de Contas do Estado do Espirito Santo (TCE-ES).
+- Sou católico apostólico romano, filho de Maria e tenho São Tomé como irmão de fé. 
  
 > “Mais bonito do que a história que te trouxe até aqui, é aquela que tu constróis a partir daqui.”
  
 ---
- 
-## 📚 O que você encontra aqui
- 
-- Textos e artigos sobre **astrobiologia**, desde os paradoxos de Fermi até os limites da vida.  
-- Reflexões e escritos de **fé**, sobre Deus, silêncio, e o sentido da existência.  
-- Contos e poemas, incluindo obras como:
-  - **Vivara por falar em Mara**
-  - **Perfeição em Palavra**
-- Textos sobre **tecnologia, inclusão e gestão com propósito**  
-- Tudo escrito **para ser humano, não perfeito**.  
-- Projetos pessoais para desenvolvimento
- 
----
- 
+  
 ## 🌟 Filosofia de Vida
  
 - Deus já basta. Não precisa de festa, música ou louvor. Ele já basta.  
@@ -45,26 +34,19 @@ Aqui compartilho projetos, e-books, reflexões, contos e pesquisas que atravessa
  
 ## 🔭 Projetos e Pesquisas
  
-**Astrobiologia & Vida Extraterrestre**
+**Astrobiologia: a biologia em busca de novos destinos**
  
-- Busca por vida em exoplanetas, luas geladas e ambientes extremos  
-- Estudo de extremófilos e bioassinaturas  
-- Simulações laboratoriais de atmosferas extraterrestres  
+- Entender como funciona a busca da vida alienigena.
+- Apoiado pela Universidade Federal da Bahia (UFBa) entre 2017 e 2018
  
-**Principais Instituições e Pesquisadores**
- 
-- 🇧🇷 **INPE**, **USP**, **Observatório Nacional**  
-- 🌎 **NASA**, **ESA**, **SETI Institute**  
-- 🌏 Pesquisadores como **Douglas Galante, Rosaly Lopes, Fábio Rodrigues, Carl Sagan, Sara Seager, Chris McKay**  
- 
-**Projetos de Software e Ciência de Dados**
- 
-- Desenvolvimento ético e com propósito  
-- Ferramentas que buscam **usar tecnologia para impacto positivo**
+**FakeNews e Pós Verdade na política externa brasileira em tempos pós guerra fria**
+
+- Uma análise dos discursos políticos feitos em comitês das Organizações das Nações Unidas, a luz da pesquisa acadêmica sobre análises discursivas (especialmente de Eni Orlandi)
+- Iniciado como estudo na Universidade de Campinas (UniCamp) em 2019 e finalizado como estudo no Programa de Pós Graduação em Relação Internacionais da UFBa em 2021
  
 ---
  
-## 📖 Leituras e Inspirações
+## 📖 Luiz - literário
  
 - Reflexões católicas: **Alfa e Ômega, santidade, sacramentos**  
 - Literatura: **teoria literária acessível, crítica ao academicismo fechado**  
